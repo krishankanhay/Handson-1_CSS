@@ -1,0 +1,46 @@
+h2
+{
+    color: red;
+    font-style: italic;
+}
+
+.olist
+{
+    color: darkred;
+}
+
+.strike
+{
+    text-decoration: line-through;
+    font-style:italic;
+}
+
+.bgtext
+{
+    background-color: yellow;
+}
+
+.ol-last
+{
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.ulist
+{
+    color: darkred;
+    letter-spacing: 5px;
+}
+
+.paragraph
+{
+    color: rgb(117, 58, 30);
+}
+
+.anchor
+{
+    color: red;
+    text-decoration: none;
+    background-color: yellow;
+    font-style: italic;
+}
